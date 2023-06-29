@@ -9,7 +9,6 @@ function DetailSong() {
                     <p>Making My Way</p>
                 </div>
             </div>
-
             <div>
                 <img
                     className="w-[250px] h-[250px] m-auto"
